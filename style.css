@@ -197,6 +197,9 @@ list-style:circle;
         white-space: normal;
     
     }
+    #communication a{
+    padding: 0px 10px;
+}
 }
 
 
